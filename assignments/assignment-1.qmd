@@ -26,6 +26,14 @@ data science and its importance in the industry.
 
 Why are industrial engineers needed in complex systems?
 
+### Answer 
+
+Industrial engineers are important in complex systems because they ensure that parts like logistics, marketing, and scheduling work well 
+
+together. They focus on the interactions between these elements, using scheduling and sequencing to improve efficiency and keep everything 
+
+running smoothly.
+
 ### Multiple Choice Question 
 
 What is it called when knowing 20% of something provides you with 80% of the benefits?
@@ -39,5 +47,11 @@ C) Pareto Principle
 D) Information Systems
 
 E) Extract/Transform/Load
+
+### Answer
+
+The answer is Pareto Principle. The Pareto Principle, also known as the 80/20 rule, suggests that roughly 80% of effects come from 20% of
+
+causes. In other words, knowing a small portion of information can lead to most of the benefits or results.
 
 ## (b)
