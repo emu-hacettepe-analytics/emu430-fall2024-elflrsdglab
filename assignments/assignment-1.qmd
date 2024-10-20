@@ -12,4 +12,32 @@ My first assignment has two parts.
 
 ## (a)
 
+The video I watched : [Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - Cem Vardar & Erdi Dasdemir]
+
+The video features Cem Vardar, an industrial engineer who earned his bachelor’s and master’s degrees in Turkey and his doctorate in the 
+
+United States. He has worked actively in data science and shares his experiences and knowledge. Vardar provides many helpful insights into 
+
+data science and its importance in the industry.
+
+## Questions
+
+### Open-ended Question
+
+Why are industrial engineers needed in complex systems?
+
+### Multiple Choice Question 
+
+What is it called when knowing 20% of something provides you with 80% of the benefits?
+
+A) Data Warehousing
+
+B) Silo
+
+C) Pareto Principle
+
+D) Information Systems
+
+E) Extract/Transform/Load
+
 ## (b)
