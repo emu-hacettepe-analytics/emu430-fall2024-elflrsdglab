@@ -56,7 +56,30 @@ causes. In other words, knowing a small portion of information can lead to most 
 
 ## (b)
 
-install.packages("dslabs")
-
+# Load the necessary package and data
 library(dslabs)
+data("polls_us_election_2016")
+
+# Display the first 10 rows of the original dataset
+head(polls_us_election_2016, 10)
+
+# Calculate and display the total number of NA values
+sum(is.na(polls_us_election_2016))
+
+# Replace NA values: numeric columns with 2002, character/factor columns with 'Elif'
+polls_modified <- polls_us_election_2016
+polls_modified[] <- lapply(polls_modified, function(x) {
+  if (is.numeric(x)) {
+    x[is.na(x)] <- 2002
+  } else {
+    x[is.na(x)] <- 'Elif'
+  }
+  return(x)
+})
+
+# Display the first 10 rows of the modified dataset
+head(polls_modified, 10)
+
+# Calculate and display the total number of NA values in the modified dataset
+sum(is.na(polls_modified))
 
