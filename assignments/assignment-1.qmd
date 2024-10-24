@@ -55,3 +55,8 @@ The answer is Pareto Principle. The Pareto Principle, also known as the 80/20 ru
 causes. In other words, knowing a small portion of information can lead to most of the benefits or results.
 
 ## (b)
+
+install.packages("dslabs")
+
+library(dslabs)
+
